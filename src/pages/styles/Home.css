@@ -1,0 +1,28 @@
+.Home {
+  height: 100vh;
+  padding: 2rem 0;
+  background: url('../../images/stars.svg'), #1B1B25;
+  margin-bottom: 1rem;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Home__logo {
+  margin-right: 80px;
+}
+
+.Home__logo img {
+  margin-bottom: 30px;
+}
+
+.Home__logo p {
+  margin-bottom: 30px;
+}
+
+.Home__buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
